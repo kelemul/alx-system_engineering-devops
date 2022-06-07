@@ -1,0 +1,1 @@
+this is shell script by kelemu leykun
