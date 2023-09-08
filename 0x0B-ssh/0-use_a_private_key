@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
-# Connects to server 172.17.0.16 with key in ~/.ssh/myssh
+# Connects to server 35.172.230.83 with key in ~/.ssh/school
 
-ssh -i ~/.ssh/myssh ubuntu@127.0.0.1
+ssh -i /alx-system_engineering-devops/0x0B-ssh ubuntu@54.237.61.240
+
